@@ -28,7 +28,7 @@ This repository contains my personal notes as I learn and explore full stack web
   - HTTP & Networking Basics
   - Hosting (Vercel)
 
-## 🗂️ How to Use
+## How to Use
 
 Each folder contains Markdown files for specific topics. You can browse them directly or clone this repo to study offline.
 
