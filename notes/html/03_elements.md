@@ -43,3 +43,28 @@ text, images, buttons, links, and more.
 - Use one `<h1>` per page (usually the page title)
 - Use headings to create a clear content hierarchy
 - Don't use headings just to make text bigger. Use CSS for styling instead.
+
+
+## Divs
+
+The `<div>` element stands for **"division"** and is used to group together
+other HTML elements. It's a container that doesn't add any visual styling
+by itself, but it's extremely useful for structuring, styling, and organizing
+content on a web page.
+
+### What it is Used for
+- Grouping related content
+- Wrapping sections (e.g., header, footer, article)
+- Applying CSS styles to a specific area
+- Using JavaScript to manipulate parts of the page
+- Laying out a page with Flexbox or Grid
+
+### Example
+
+```html
+<div class="card">
+  <h2>Product Name</h2>
+  <p>Price: $19.99</p>
+  <button>Buy Now</button>
+</div>
+```
