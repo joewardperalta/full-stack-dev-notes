@@ -124,3 +124,30 @@ dynamically while a page was running. On the server side, frameworks
 like **Spring**, **Django**, and **Ruby on Rails** made it easier 
 to connect to databases, store user-generated content, and display 
 it in real time.
+
+
+## Current Internet Trends
+
+The rise of smartphones has transformed internet usage, with mobile 
+traffic now exceeding 50% of total internet activity. This shift has 
+driven major changes in web development to ensure seamless user 
+experiences across all devices.
+
+### Responsive Design
+
+Responsive design adapts websites to different screen sizes using CSS 
+features like media queries and relative units. This ensures sites 
+look good on desktops, tablets, and phones.
+
+### Mobile Apps vs Web
+
+Mobile users spend more time in apps than browsers. While apps are 
+internet-connected, they’re not part of the web. Apps aim to retain 
+user attention within a single environment.
+
+### Web Dev as a Starting Point
+
+Web development is a solid foundation for learning mobile app 
+development. Although apps are often built with languages like 
+**Swift**, **JavaScript frameworks (like React Native)** are 
+increasingly used to build cross-platform apps.
