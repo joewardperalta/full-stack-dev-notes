@@ -58,8 +58,6 @@ by browsers to render the page.
 
 
 ## Summary
-
-- **HTML** structure is how elements are organized in a web page
-- It follows a **hierarchy**, with `<html>` at the root
-- Proper structure helps browsers render content correctly and
-makes the code easier to read and maintain
+    - **HTML** structure is how elements are organized in a web page
+    - It follows a **hierarchy**, with `<html>` at the root
+    - Proper structure helps browsers render content correctly and makes the code easier to read and maintain
