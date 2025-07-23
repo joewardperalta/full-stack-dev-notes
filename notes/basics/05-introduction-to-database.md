@@ -47,3 +47,14 @@ or delete data
 
 It's the standard language used to communicate with relational
 databases to store, retrieve, update, and delete data.
+
+
+## What is Query
+
+A **query** is a request for information from a database.
+
+### Example
+
+```sql
+SELECT name, email FROM users WHERE name = 'Alice';
+```
