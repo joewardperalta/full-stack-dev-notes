@@ -12,6 +12,7 @@ While HTML structure the content and CSS styles it, JavaScript
 handles user interaction within the website, dynamically update
 content, and much more.
 
+
 ## What JavaScript Can Do
 
 - **Interactivity** - responds to clicks, form inputs, key presses, 
@@ -23,3 +24,9 @@ reloading the page
 - **APIs & Data** - fetches and displays data from servers or services
 - **Games & Web App** - powers everything from simple games to full
 applications like Gmail or Facebook.
+
+
+## Two Key Building Blocks of JavaScript
+
+- Functions
+- Events
