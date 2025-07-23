@@ -27,3 +27,22 @@ they can access the internet and communicate with one another.
 Defense, was the first interconnected network and a precursor to the 
 internet. It was designed to connect supercomputing centers at 
 government agencies and universities to share information.
+
+
+## Protocols
+
+Institutions wanted to communicate and share information, but they 
+couldn’t because they used different rules and systems. This is why 
+**TCP/IP** was created—to provide a standard way for networks to 
+communicate. The interconnected global network of networks that is 
+today known as the internet was formed.
+
+### TCP
+
+The **Transmission Control Protocol** ensures that data is sent and 
+received correctly.
+
+### IP
+
+The **Internet Protocol** handles the address system so data knows 
+where to go.
