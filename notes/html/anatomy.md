@@ -15,10 +15,10 @@ The breakdown:
 
 | Part               | Description                 |
 |--------------------|-----------------------------|
-| <p>                | Opening tag                 |
-| class="greeting"   | Attribute                   |
-| Hello, World!      | Content                     |
-| </p>               | Closing tag                 |
+| `<p>`              | Opening tag                 |
+| `class="greeting"` | Attribute                   |
+| `Hello, World!`    | Content                     |
+| `</p>`             | Closing tag                 |
 
 This is the typical anatomy of an HTML element:
 - A **tag** defines the element type (e.g., `p`, `div`, `img`, etc.)
