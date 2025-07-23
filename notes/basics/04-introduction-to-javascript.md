@@ -30,3 +30,34 @@ applications like Gmail or Facebook.
 
 - Functions
 - Events
+
+
+## What is an Event
+
+An **event** in JavaScript is something that happens in the browser
+that is triggered by the user or the browser itself.
+
+### Common Types of Events
+
+- **click** - the user clicks an element (e.g., a button)
+- **mouseover** - the user moves the mouse over an element
+- **keydown** - the user presses a key on the keyboard
+- **submit** - a form is submitted
+- **load** - the page or images finishes loading
+- **change** - the value of an input changes
+
+### Example
+
+```html
+<button onclick="greet()">Click Me</button>
+
+<script>
+    function greet() {
+        alert("Hello there!")
+    }
+</script>
+```
+
+In this example:
+- The `click` event happens when the button is clicked
+- JavaScript runs the `greet()` function in response
