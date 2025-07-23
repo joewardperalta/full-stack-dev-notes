@@ -23,3 +23,23 @@ text, images, buttons, links, and more.
 
 - **head** - information for the browser (not visible on the page)
 - **body** - all content that shows up in the browser window
+
+
+## Headings
+
+**Headings** in HTML are used to define the titles and subtitles of content on a webpage. They help organize information, improve readability, and give structure to the content—both for users and for search engines (SEO).
+
+### HTML Heading Elements
+
+- `<h1>` - main heading (most important)
+- `<h2>` - subheading under `<h1>`
+- `<h3>` - subheading under `<h2>`
+- `<h4>` - subheading under `<h3>`
+- `<h5>` - subheading under `<h4>`
+- `<h6>` - smallest heading (least important)
+
+### Best Practices
+
+- Use one `<h1>` per page (usually the page title)
+- Use headings to create a clear content hierarchy
+- Don't use headings just to make text bigger. Use CSS for styling instead.
