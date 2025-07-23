@@ -32,6 +32,26 @@ applications like Gmail or Facebook.
 - Events
 
 
+## What is a Function
+
+A **function** is a reusable block of code that performs a specific
+task. It helps organize code, avoid repition, and run actions when 
+needed.
+
+### Example
+
+```javascript
+function sayHello() {
+    alert("Hello!");
+}
+```
+
+In this example:
+- `function` is the keyword
+- `sayHello` is the function name
+- `{...}` contains the code that runs when the function is called
+
+
 ## What is an Event
 
 An **event** in JavaScript is something that happens in the browser
