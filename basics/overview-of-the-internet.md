@@ -104,3 +104,23 @@ with the response.
 | 301 Moved Permanently     | The resource has been moved          |
 | 404 Not Found             | The requested resource was not found |
 | 500 Internal Server Error | The server encountered an error      |
+
+
+## Evolution of Web Development: From Static to Web 2.0
+
+In the early days of the internet, websites were static made up of 
+fixed text, images, and links—with little to no interactivity. 
+These pages didn’t change based on user behavior and required full 
+reloads to navigate between content.
+
+By the early 2000s, the web evolved into what is known as **Web 2.0**. 
+This era introduced **dynamic web applications** where content could 
+update in response to user input without refreshing the page. 
+It also emphasized user participation, giving rise to blogs, 
+social media, and collaborative platforms like wikis.
+
+Key technologies powered this shift. **jQuery** enabled fetching data 
+dynamically while a page was running. On the server side, frameworks 
+like **Spring**, **Django**, and **Ruby on Rails** made it easier 
+to connect to databases, store user-generated content, and display 
+it in real time.
