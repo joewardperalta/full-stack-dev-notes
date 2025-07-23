@@ -54,3 +54,14 @@ The internet refers to the actual network of connected devices.
 Its primary purpose is to send messages from one computer to another. 
 There is no specific built-in way for people to browse information on 
 the internet, which is why the **World Wide Web** was created.
+
+
+## World Wide Web
+
+The World Wide Web was invented by Tim Berners-Lee. It’s a collection 
+of interlinked websites and other web resources. It’s like a library 
+full of content.
+
+In 1990, the rise of web browsers began, providing an intuitive way 
+for people to browse the internet and access information on the 
+World Wide Web.
