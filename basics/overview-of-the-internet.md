@@ -98,7 +98,9 @@ successful. They contain some information about the type of error.
 It helps the browser know how to handle the data that was sent back 
 with the response.
 
-| Column 1 | Column 2 | Column 3 |
-|----------|----------|----------|
-| Row 1    | Data     | More     |
-| Row 2    | Values   | Here     |
+| **Code**                  | **Explanation**                      |
+|---------------------------|--------------------------------------|
+| 200 OK                    | The request has succeeded            |
+| 301 Moved Permanently     | The resource has been moved          |
+| 404 Not Found             | The requested resource was not found |
+| 500 Internal Server Error | The server encountered an error      |
