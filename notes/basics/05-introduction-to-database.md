@@ -38,7 +38,4 @@ to the `Users` table
 ### 6. Queries
 - Special instructions (often in **SQL**) to get, insert, update,
 or delete data
-- Example: 
-```sql
-SELECT name FROM users WHERE id = 1;
-```
+- Example: ```sql SELECT name FROM users WHERE id = 1; ```
