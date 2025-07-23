@@ -36,3 +36,38 @@ each language focuses on a **single responsibility**, making
 websites easier to manage and scale.
 
 **HTML** is for structure, while **CSS** is for presentation.
+
+
+## CSS Selector
+
+A **CSS Selector** is a pattern used to target HTML elements
+for styling.
+
+### Example
+
+```css
+.message {
+    color: blue;
+    font-size: 20px;
+}
+```
+
+- `.message` is the CSS selector
+- It targets any HTML element with the class `message`
+
+
+## Visual Rules
+
+**Visual rules** are the actual style instructions inside a CSS block.
+They define how the selected elements should look.
+
+### Example
+
+```css
+.message {
+    color: blue;
+    font-size: 20px;
+}
+```
+
+- The styles inside the `{}` are called visual rules
