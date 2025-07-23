@@ -83,8 +83,22 @@ Browsers use an internet protocol called HTTP to request information
 from the internet.
 
 ### Request Methods
+
   - **GET** - used to retrieve data from the server
   - **POST** - used to send data to the server to create a new 
   resource
   - **PUT** - used to update/replace an existing resource
   - **DELETE** - used to remove a resource from the server
+
+### Status Code
+
+An HTTP status code is a 3-digit number returned by a server as part 
+of the response to indicate whether or not the response was 
+successful. They contain some information about the type of error. 
+It helps the browser know how to handle the data that was sent back 
+with the response.
+
+| Column 1 | Column 2 | Column 3 |
+|----------|----------|----------|
+| Row 1    | Data     | More     |
+| Row 2    | Values   | Here     |
