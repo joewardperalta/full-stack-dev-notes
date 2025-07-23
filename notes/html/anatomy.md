@@ -25,3 +25,10 @@ This is the typical anatomy of an HTML element:
 - Optional **attributes** inside the opening tag (e.g., `class`, `id`, `href`)
 - The **content** that is displayed or rendered
 - A **closing tag**
+
+
+## Summary
+
+HTML anatomy is the standard structure of an HTML element.
+- Tag + Attributes + Content + Closing Tag
+- It's the foundation for building web pages properly
