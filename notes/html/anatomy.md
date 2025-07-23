@@ -13,12 +13,12 @@ an HTML element.
 
 The breakdown:
 
-| Part               | Description                 |
-|--------------------|-----------------------------|
-| `<p>`              | Opening tag                 |
-| `class="greeting"` | Attribute                   |
-| `Hello, World!`    | Content                     |
-| `</p>`             | Closing tag                 |
+| Part               | Description                                |
+|--------------------|--------------------------------------------|
+| `<p>`              | Opening tag - starts the paragraph element |
+| `class="greeting"` | Attribute -  gives extra info              |
+| `Hello, World!`    | Content - what shows on the web page       |
+| `</p>`             | Closing tag - ends the element             |
 
 This is the typical anatomy of an HTML element:
 - A **tag** defines the element type (e.g., `p`, `div`, `img`, etc.)
