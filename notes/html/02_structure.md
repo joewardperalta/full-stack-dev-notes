@@ -8,9 +8,8 @@ organized in a way that defines what content is shown and
 how it's grouped.
 
 Think of it like a tree or a family hierarchy:
-- Elements are nested inside each other
-- The structure starts from the top `<html>` and branches
-down into sections like `<head>` and `<body>`.
+    - Elements are nested inside each other
+    - The structure starts from the top `<html>` and branches down into sections like `<head>` and `<body>`.
 
 
 ## Basic HTML Document Structure (Hierarchy)
@@ -31,17 +30,16 @@ down into sections like `<head>` and `<body>`.
 The breakdown:
 
 1. `<!DOCTYPE html>`
-- Declares the document type (HTML5)
+    - Declares the document type (HTML5)
 
 2. `<html>` (Root Element)
-- The top-level container for the whole page
+    - The top-level container for the whole page
 
 3. `<head>`
-- Contains the meta-information about the page
-    -- title (shown in the browser tab)
-    -- Link to CSS
-    -- Metadata (charset, viewport)
-    -- Scripts (optional)
+    - Contains the meta-information about the page title (shown in the browser tab)
+        - Link to CSS
+        - Metadata (charset, viewport)
+        - Scripts (optional)
 
 ## Visual Hierarchy
 
