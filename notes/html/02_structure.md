@@ -8,8 +8,8 @@ organized in a way that defines what content is shown and
 how it's grouped.
 
 Think of it like a tree or a family hierarchy:
-    - Elements are nested inside each other
-    - The structure starts from the top `<html>` and branches down into sections like `<head>` and `<body>`.
+- Elements are nested inside each other
+- The structure starts from the top `<html>` and branches down into sections like `<head>` and `<body>`.
 
 
 ## Basic HTML Document Structure (Hierarchy)
@@ -58,6 +58,8 @@ by browsers to render the page.
 
 
 ## Summary
-    - **HTML** structure is how elements are organized in a web page
-    - It follows a **hierarchy**, with `<html>` at the root
-    - Proper structure helps browsers render content correctly and makes the code easier to read and maintain
+
+- **HTML** structure is how elements are organized in a web page
+- It follows a **hierarchy**, with `<html>` at the root
+- Proper structure helps browsers render content correctly and
+makes the code easier to read and maintain
