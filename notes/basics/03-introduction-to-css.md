@@ -26,3 +26,13 @@ to style and design the content on a web page written in HTML.
 
 <p class="greeting">Hello, world!</p>
 ```
+
+
+## Why is CSS Separate from HTML
+
+**HTML** and **CSS** are separated to follow a key computer 
+science principle called **Separation of Conerns**. This means
+each language focuses on a **single responsibility**, making
+websites easier to manage and scale.
+
+**HTML** is for structure, while **CSS** is for presentation.
