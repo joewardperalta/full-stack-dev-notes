@@ -39,3 +39,11 @@ to the `Users` table
 - Special instructions (often in **SQL**) to get, insert, update,
 or delete data
 - Example: `SELECT name FROM users WHERE id = 1;`
+
+
+## What is SQL
+
+**SQL** stands for **Structure Query Language**.
+
+It's the standard language used to communicate with relational
+databases to store, retrieve, update, and delete data.
