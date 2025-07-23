@@ -46,3 +46,11 @@ received correctly.
 
 The **Internet Protocol** handles the address system so data knows 
 where to go.
+
+
+## Internet
+
+The internet refers to the actual network of connected devices. 
+Its primary purpose is to send messages from one computer to another. 
+There is no specific built-in way for people to browse information on 
+the internet, which is why the **World Wide Web** was created.
