@@ -65,3 +65,13 @@ full of content.
 In 1990, the rise of web browsers began, providing an intuitive way 
 for people to browse the internet and access information on the 
 World Wide Web.
+
+
+## Browsers and Servers
+
+On the internet, information is sent from one computer to another. 
+This process is explained by the **client-server model**.
+
+The **client-server model** is a system where one computer 
+(the client) requests information and another computer (the server) 
+provides it.
