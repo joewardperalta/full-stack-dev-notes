@@ -75,3 +75,16 @@ This process is explained by the **client-server model**.
 The **client-server model** is a system where one computer 
 (the client) requests information and another computer (the server) 
 provides it.
+
+
+## Hypertext Transfer Protocol (HTTP)
+
+Browsers use an internet protocol called HTTP to request information 
+from the internet.
+
+### Request Methods
+  - **GET** - used to retrieve data from the server
+  - **POST** - used to send data to the server to create a new 
+  resource
+  - **PUT** - used to update/replace an existing resource
+  - **DELETE** - used to remove a resource from the server
