@@ -29,11 +29,6 @@ This repository contains my personal notes as I learn and explore full stack web
   - Hosting (Vercel)
 
 
-## How to Use
-
-Each folder contains Markdown files for specific topics. You can browse them directly or clone this repo to study offline.
-
-
 ## License
 
 This project is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
