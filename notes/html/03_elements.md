@@ -193,3 +193,33 @@ The `<img>` element is a self closing tag, meaning it doesn't need a closing tag
 - Use `loading="lazy"` for better performance
 - Use `srcset` and `sizes` for responsive designs
 - Use `<figure>` and `<figurecaption>` for annotated images
+
+
+## Videos
+
+The `<video>` element in HTML is used to eembed a video player into a webpage. it allows visitors to play video files directly in the browser without needing external plugins like Flash.
+
+### Common Attributes:
+- `src` - path to the video file
+- `controls` - adds playback controls (play, pause, volume, etc.)
+- `autoplay` - starts playing the video automatically when the page loads
+- `loop` - replays the video in a loop
+- `muted` - starts the video with sounds off
+- `poster` - specifies an image to show before the video plays
+- `width / height` - controls the size of the video player
+
+### Example
+
+```html
+<video width="640" height="360" controls poster="thumbnail.jpg">
+  <source src="video.mp4" type="video/mp4">
+  <source src="video.webm" type="video/webm">
+  Your browser does not support the video tag.
+</video>
+```
+
+### Best Practices:
+- Include multiple formats: `.mp4`, `.webm`, `.ogg` for compatibility
+- Use `controls` to give users control over playback
+- Don't autoplay with sound to prevent poor UX
+- Use `caption` tracks(`<track>`) for accessibility when needed
