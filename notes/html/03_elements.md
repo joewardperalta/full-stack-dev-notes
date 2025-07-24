@@ -109,3 +109,19 @@ The `<em>` element is used to emphasize text, meaning the content it wraps shoul
 ### Use `<em>` when:
 - Highlighting important words or prases for meaning
 - Writing accessible and semantically correct HTML
+
+
+## Strong
+
+The `<strong>` element is used to give strong importance to text. It's a semantic tag that indicates the content is critically important.
+
+### Example
+
+```html
+<p>Warning: <strong>Do not share your password.</strong></p>
+```
+
+### When to use `<strong>`:
+- Highlighting critical information
+- Marking important instructions, warnings, or keywords
+- Improving accessibility for assistive technologies
