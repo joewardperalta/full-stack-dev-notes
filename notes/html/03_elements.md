@@ -144,7 +144,7 @@ The `<br>` is a self closing tag used to move text to the next line without star
 
 ## Unordered List
 
-An `<ul>` is a list of items that do not follow a specific order. It's commonly used when the order of items doesn't matter.
+An `<ul>` is a list of items that do not follow a specific order. It's commonly used when the order of items doesn't matter. The `<li>` tag is used inside an unordered list to specify an item in a list.
 
 ### Example
 
