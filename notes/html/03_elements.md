@@ -68,3 +68,15 @@ content on a web page.
   <button>Buy Now</button>
 </div>
 ```
+
+
+## Paragraph
+
+The `<p>` tag represents a block of text that is separated from other blocks by vertical spacing. It is a block-level element, meaning it takes up the full width available.
+
+### Example
+
+```html
+<p>Hello, my name is Joeward.</p>
+<p>I am learning web development.</p>
+```
