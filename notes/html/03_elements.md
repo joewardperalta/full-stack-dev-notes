@@ -155,3 +155,18 @@ An `<ul>` is a list of items that do not follow a specific order. It's commonly 
   <li>JavaScript</li>
 </ul>
 ```
+
+
+## Ordered List
+
+The `<ol>` element is used to list items sequentially. The items are numbered instead of bullet points.
+
+### Example
+
+```html
+<ol>
+  <li>Preheat the oven.</li>
+  <li>Mix the ingredients.</li>
+  <li>Bake for 30 minutes.</li>
+</ol>
+````
