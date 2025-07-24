@@ -91,3 +91,21 @@ The `<span>` element is an inline container used to group text or other inline e
 ```html
 <p>Hello, <span style="color: red;">Joeward</span>!</p>
 ```
+
+
+## Emphasis
+
+The `<em>` element is used to emphasize text, meaning the content it wraps should be read with stress or importanc. The content is rendered in italics.
+
+### Example 
+
+```html
+<p>I said <em>now</em>, not later.</p>
+```
+
+### Why use `<em>` Instead of `<i>`
+- `<em>` has semantic meaning, while `<i>` has visuals only
+
+### Use `<em>` when:
+- Highlighting important words or prases for meaning
+- Writing accessible and semantically correct HTML
