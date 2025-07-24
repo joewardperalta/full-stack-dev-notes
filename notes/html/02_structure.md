@@ -86,7 +86,7 @@ Is a set of rules about how HTML should be structured.
 ```
 
 
-## The <html> Tag
+## The `<html>` Tag
 
 The `<html>` tag is the root element of every HTML document. It wraps all the content of a web page, including the `<head>` and `<body>` sections.
 
@@ -105,7 +105,7 @@ The `<html>` tag is the root element of every HTML document. It wraps all the co
 ```
 
 
-## The <head> Tag
+## The `<head>` Tag
 
 The `<head>` tag in HTML is used to containt meta-information (data about the document) that is not displayed directly on the webpage. It helps the browser understand how to handle the page, including its title, character encoding, styles, scripts, and more.
 
