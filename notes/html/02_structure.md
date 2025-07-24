@@ -109,7 +109,7 @@ The `<html>` tag is the root element of every HTML document. It wraps all the co
 
 The `<head>` tag in HTML is used to containt meta-information (data about the document) that is not displayed directly on the webpage. It helps the browser understand how to handle the page, including its title, character encoding, styles, scripts, and more.
 
-For more information about metadata navigate to [metadata.md]("https://github.com/joewardperalta/full-stack-dev-notes/blob/main/notes/html/05_metadata.md")
+For more information about metadata navigate to [metadata.md](https://github.com/joewardperalta/full-stack-dev-notes/blob/main/notes/html/05_metadata.md)
 
 ### Example
 
