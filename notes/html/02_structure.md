@@ -86,6 +86,25 @@ Is a set of rules about how HTML should be structured.
 ```
 
 
+## The <html> Tag
+
+The `<html>` tag is the root element of every HTML document. It wraps all the content of a web page, including the `<head>` and `<body>` sections.
+
+### Example
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- Metadata and links -->
+  </head>
+  <body>
+    <!-- Visible page content -->
+  </body>
+</html>
+```
+
+
 ## Summary
 
 - **HTML** structure is how elements are organized in a web page
