@@ -57,6 +57,35 @@ forms the **DOM (Document Object Model)** structure used
 by browsers to render the page.
 
 
+## What is`<!DOCTYPE html>`
+
+The `<!DOCTYPE>` declaration tells the browser what version of HTML to use, so it can render the page correctly. It's not an HTML tag, it's an instruction to the browser from the **Document Type Definition (DTD)**.
+
+### Document Type Definition
+
+Is a set of rules about how HTML should be structured.
+
+### Example
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    div {
+      width: 300px;
+      padding: 20px;
+      background-color: lightblue;
+    }
+  </style>
+</head>
+<body>
+  <div>This box is rendered in standards mode.</div>
+</body>
+</html>
+```
+
+
 ## Summary
 
 - **HTML** structure is how elements are organized in a web page
