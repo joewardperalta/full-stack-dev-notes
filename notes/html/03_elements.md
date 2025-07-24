@@ -169,4 +169,27 @@ The `<ol>` element is used to list items sequentially. The items are numbered in
   <li>Mix the ingredients.</li>
   <li>Bake for 30 minutes.</li>
 </ol>
-````
+```
+
+
+## Images
+
+The `<img>` element is a self closing tag, meaning it doesn't need a closing tag to be a complete element. It is used to render an image in a web page. The `src` attribute is required to set the image's source such as a URL (Uniform Resource Locator). A URL is a web address or local file path where a file is stored.
+
+### Example
+
+```html
+<img 
+  src="https://example.com/banner.jpg" 
+  alt="Colorful banner promoting the summer sale" 
+  width="600" 
+  height="200" 
+  loading="lazy">
+```
+
+### Best Practies:
+- Always include meaningful `alt` text
+- Use compressed formmts such as `.jpg` for faster loading
+- Use `loading="lazy"` for better performance
+- Use `srcset` and `sizes` for responsive designs
+- Use `<figure>` and `<figurecaption>` for annotated images
