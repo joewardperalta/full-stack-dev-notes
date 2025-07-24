@@ -125,3 +125,18 @@ The `<strong>` element is used to give strong importance to text. It's a semanti
 - Highlighting critical information
 - Marking important instructions, warnings, or keywords
 - Improving accessibility for assistive technologies
+
+
+## Line Break
+
+The `<br>` is a self closing tag used to move text to the next line without starting a new pararaph.
+
+### Example
+
+```html
+<p>
+  123 Main St.<br>
+  Toronto, ON<br>
+  Canada
+</p>
+```
