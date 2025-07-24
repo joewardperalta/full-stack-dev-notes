@@ -84,7 +84,7 @@ The `<p>` tag represents a block of text that is separated from other blocks by 
 
 ## Span
 
-The `<span>` element is an inline container used to group text or other inlin elements for styling or scripting purposes. It is used for applying CSS styles to part of a text or adding JavaScript hooks like `id` or `class`.
+The `<span>` element is an inline container used to group text or other inline elements for styling or scripting purposes. It is used for applying CSS styles to part of a text or adding JavaScript hooks like `id` or `class`.
 
 ### Example
 
