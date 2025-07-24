@@ -188,7 +188,7 @@ The `<img>` element is a self closing tag, meaning it doesn't need a closing tag
 ```
 
 ### Best Practies:
-- Always include meaningful `alt` text
+- Always include meaningful `alt` text for accessibility and seo
 - Use compressed formmts such as `.jpg` for faster loading
 - Use `loading="lazy"` for better performance
 - Use `srcset` and `sizes` for responsive designs
