@@ -245,6 +245,9 @@ the link goes. This creates a clickable link that takes the user to
 <a href="#about">Go to About Section</a>
 ```
 
+This example uses the id attribute value of another element as a link.
+When users click on this link, it will navigate them to the about section.
+
 #### External link
 
 ```html
