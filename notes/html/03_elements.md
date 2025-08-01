@@ -262,3 +262,18 @@ the link goes. This creates a clickable link that takes the user to
 ```html
 <a href="tel:+1234567890">Call Us</a>
 ```
+
+### Opening links in a new window
+
+The `target` attribute specifies how a link should open.
+
+#### Example
+
+```html
+<a href="https://en.wikipedia.org/wiki/Brown_bear" target="_blank"
+  >The Brown Bear</a
+>
+```
+
+A `target` attribute with the value `_blank` instructs the browser to
+open the page in a new window.
